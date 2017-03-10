@@ -203,6 +203,7 @@
             <Service-Component>${osgi.service.component}</Service-Component>
             <Meta-Persistence>${osgi.meta.persistence}</Meta-Persistence>
             <Fragment-Host>${osgi.fragment.host}</Fragment-Host>
+            <Bundle-Activator>${osgi.bundle.activator}</Bundle-Activator>
           </instructions>
         </configuration>
       </plugin>
